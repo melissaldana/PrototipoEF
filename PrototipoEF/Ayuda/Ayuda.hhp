@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayuda.chm
+Contents file=Ayuda.hhc
+Default Window=Ayuda
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayuda="Ayuda","Ayuda.hhc",,"Manual-de-Usuario-Movimientos-Bancarios.html","Manual-de-Usuario-Movimientos-Bancarios.html","Manual-de-Usuario-Movimientos-Bancarios.html","Ayuda","Manual-de-Usuario-Movimientos-Bancarios.html","Ayuda",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Manual-de-Usuario-Movimientos-Bancarios.html
+
+[INFOTYPES]
+
